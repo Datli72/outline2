@@ -1,5 +1,3 @@
-# outline2
-test new project 
 # https://tea.xyz/what-is-this-file
 ---
 version: 1.0.0
